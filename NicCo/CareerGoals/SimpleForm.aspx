@@ -16,9 +16,9 @@
 .item3a { grid-area:main1; }
 .item3b { grid-area:main2; }
 .item4 { grid-area: weUnderstand; }
-.item5 { grid-area: nicotineSalts; }
-.item6 { grid-area: pureNicotine; }
-.item7 { grid-area: nicotineBlends; }
+.item5 { background-color:#ffffff; grid-area: nicotineSalts; }
+.item6 { background-color:#ffffff; grid-area: pureNicotine; }
+.item7 { background-color:#ffffff; grid-area: nicotineBlends; }
 .item8a { background-color:#ffffff; grid-area: texta; }
 .item8b { background-color:#ffffff; grid-area: textb; }
 .item8c { background-color:#ffffff; grid-area: textc; }
