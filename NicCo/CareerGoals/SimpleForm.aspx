@@ -57,7 +57,11 @@ ul, li {
     background-color:#b67229;
     border:solid;
     border-color:#ca9e2c;
+    border-width:5px;
     color:#ffffff;
+    padding:10px;
+    width:220px;
+    
 }
 </style>
 </head>
@@ -113,14 +117,14 @@ highest quality nicotine to using comprehensive testing to ensure purity, NicCo
 allows you to rest easy knowing compliance is covered.</p>
     </div>
       
-        <div class="item5">
-            <img src="images/Asset%204.png" />
+        <div class="item5"> 
+            <img src="https://cdn.shopify.com/s/files/1/0080/0050/3926/files/Asset_4_2x_a323efad-713b-4676-95e0-44530affa8d3.png?13959431628798300271" />
         </div>
                 <div class="item6">
-            <img src="images/Asset%204.png" />
+            <img src="https://cdn.shopify.com/s/files/1/0080/0050/3926/files/Asset_4_2x_a323efad-713b-4676-95e0-44530affa8d3.png?13959431628798300271" />
         </div>
                 <div class="item7">
-            <img src="images/Asset%204.png" />
+            <img src="https://cdn.shopify.com/s/files/1/0080/0050/3926/files/Asset_4_2x_a323efad-713b-4676-95e0-44530affa8d3.png?13959431628798300271" />
         </div>
  
        <div class="item8a">
@@ -151,7 +155,8 @@ allows you to rest easy knowing compliance is covered.</p>
         <div class="footerContents" style="background-color:#ffffff; text-align:center; height:55px; margin-top:20px; padding:5px 15px 15px 15px;">
             <img src="images/Asset%2016.png" />
             <img src="images/Asset%2018.png" />
-            <img src="images/Asset%2017.png" />
+            <img src="images/Asset%2017.png" /><br />
+           
         </div>
         <p style="color:white; text-align:center;">NICCO NICOTINES &#9400;2018</p>
     </footer>
