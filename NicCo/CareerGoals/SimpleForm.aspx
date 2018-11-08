@@ -19,9 +19,9 @@
 .item5 { grid-area: nicotineSalts; }
 .item6 { grid-area: pureNicotine; }
 .item7 { grid-area: nicotineBlends; }
-.item8a { grid-area: texta; }
-.item8b { grid-area: textb; }
-.item8c { grid-area: textc; }
+.item8a { background-color:#ffffff; grid-area: texta; }
+.item8b { background-color:#ffffff; grid-area: textb; }
+.item8c { background-color:#ffffff; grid-area: textc; }
 .item9  { grid-area: images; }
 .item10 { grid-area: footer; }
 
