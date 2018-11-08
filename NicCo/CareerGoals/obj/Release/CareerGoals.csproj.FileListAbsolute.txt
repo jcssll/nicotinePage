@@ -1,0 +1,315 @@
+C:\Users\C2User\documents\visual studio 2015\Projects\CareerGoals\CareerGoals\bin\ApplicationInsights.config
+C:\Users\C2User\documents\visual studio 2015\Projects\CareerGoals\CareerGoals\bin\roslyn\csc.exe
+C:\Users\C2User\documents\visual studio 2015\Projects\CareerGoals\CareerGoals\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\C2User\documents\visual studio 2015\Projects\CareerGoals\CareerGoals\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\C2User\documents\visual studio 2015\Projects\CareerGoals\CareerGoals\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\C2User\documents\visual studio 2015\Projects\CareerGoals\CareerGoals\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\C2User\documents\visual studio 2015\Projects\CareerGoals\CareerGoals\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\C2User\documents\visual studio 2015\Projects\CareerGoals\CareerGoals\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\C2User\documents\visual studio 2015\Projects\CareerGoals\CareerGoals\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\C2User\documents\visual studio 2015\Projects\CareerGoals\CareerGoals\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\C2User\documents\visual studio 2015\Projects\CareerGoals\CareerGoals\bin\roslyn\vbc.exe
+C:\Users\C2User\documents\visual studio 2015\Projects\CareerGoals\CareerGoals\bin\roslyn\VBCSCompiler.exe
+C:\Users\C2User\documents\visual studio 2015\Projects\CareerGoals\CareerGoals\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\C2User\documents\visual studio 2015\Projects\CareerGoals\CareerGoals\bin\CareerGoals.dll.config
+C:\Users\C2User\documents\visual studio 2015\Projects\CareerGoals\CareerGoals\bin\CareerGoals.dll
+C:\Users\C2User\documents\visual studio 2015\Projects\CareerGoals\CareerGoals\bin\CareerGoals.pdb
+C:\Users\C2User\documents\visual studio 2015\Projects\CareerGoals\CareerGoals\bin\Antlr3.Runtime.dll
+C:\Users\C2User\documents\visual studio 2015\Projects\CareerGoals\CareerGoals\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\C2User\documents\visual studio 2015\Projects\CareerGoals\CareerGoals\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\C2User\documents\visual studio 2015\Projects\CareerGoals\CareerGoals\bin\EntityFramework.dll
+C:\Users\C2User\documents\visual studio 2015\Projects\CareerGoals\CareerGoals\bin\EntityFramework.SqlServer.dll
+C:\Users\C2User\documents\visual studio 2015\Projects\CareerGoals\CareerGoals\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\C2User\documents\visual studio 2015\Projects\CareerGoals\CareerGoals\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\C2User\documents\visual studio 2015\Projects\CareerGoals\CareerGoals\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\C2User\documents\visual studio 2015\Projects\CareerGoals\CareerGoals\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\C2User\documents\visual studio 2015\Projects\CareerGoals\CareerGoals\bin\Microsoft.AI.Web.dll
+C:\Users\C2User\documents\visual studio 2015\Projects\CareerGoals\CareerGoals\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\C2User\documents\visual studio 2015\Projects\CareerGoals\CareerGoals\bin\Microsoft.ApplicationInsights.dll
+C:\Users\C2User\documents\visual studio 2015\Projects\CareerGoals\CareerGoals\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\C2User\documents\visual studio 2015\Projects\CareerGoals\CareerGoals\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\C2User\documents\visual studio 2015\Projects\CareerGoals\CareerGoals\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\C2User\documents\visual studio 2015\Projects\CareerGoals\CareerGoals\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\C2User\documents\visual studio 2015\Projects\CareerGoals\CareerGoals\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\C2User\documents\visual studio 2015\Projects\CareerGoals\CareerGoals\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\C2User\documents\visual studio 2015\Projects\CareerGoals\CareerGoals\bin\Microsoft.Owin.dll
+C:\Users\C2User\documents\visual studio 2015\Projects\CareerGoals\CareerGoals\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\C2User\documents\visual studio 2015\Projects\CareerGoals\CareerGoals\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\C2User\documents\visual studio 2015\Projects\CareerGoals\CareerGoals\bin\Microsoft.Owin.Security.dll
+C:\Users\C2User\documents\visual studio 2015\Projects\CareerGoals\CareerGoals\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\C2User\documents\visual studio 2015\Projects\CareerGoals\CareerGoals\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\C2User\documents\visual studio 2015\Projects\CareerGoals\CareerGoals\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\C2User\documents\visual studio 2015\Projects\CareerGoals\CareerGoals\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\C2User\documents\visual studio 2015\Projects\CareerGoals\CareerGoals\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\C2User\documents\visual studio 2015\Projects\CareerGoals\CareerGoals\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\C2User\documents\visual studio 2015\Projects\CareerGoals\CareerGoals\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\C2User\documents\visual studio 2015\Projects\CareerGoals\CareerGoals\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\C2User\documents\visual studio 2015\Projects\CareerGoals\CareerGoals\bin\Newtonsoft.Json.dll
+C:\Users\C2User\documents\visual studio 2015\Projects\CareerGoals\CareerGoals\bin\Owin.dll
+C:\Users\C2User\documents\visual studio 2015\Projects\CareerGoals\CareerGoals\bin\System.Web.Optimization.dll
+C:\Users\C2User\documents\visual studio 2015\Projects\CareerGoals\CareerGoals\bin\System.Web.Providers.dll
+C:\Users\C2User\documents\visual studio 2015\Projects\CareerGoals\CareerGoals\bin\WebGrease.dll
+C:\Users\C2User\documents\visual studio 2015\Projects\CareerGoals\CareerGoals\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\C2User\documents\visual studio 2015\Projects\CareerGoals\CareerGoals\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\C2User\documents\visual studio 2015\Projects\CareerGoals\CareerGoals\bin\Microsoft.AI.Web.xml
+C:\Users\C2User\documents\visual studio 2015\Projects\CareerGoals\CareerGoals\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\C2User\documents\visual studio 2015\Projects\CareerGoals\CareerGoals\bin\Microsoft.ApplicationInsights.xml
+C:\Users\C2User\documents\visual studio 2015\Projects\CareerGoals\CareerGoals\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\C2User\documents\visual studio 2015\Projects\CareerGoals\CareerGoals\bin\System.Web.Optimization.xml
+C:\Users\C2User\documents\visual studio 2015\Projects\CareerGoals\CareerGoals\bin\Antlr3.Runtime.pdb
+C:\Users\C2User\documents\visual studio 2015\Projects\CareerGoals\CareerGoals\bin\Newtonsoft.Json.xml
+C:\Users\C2User\documents\visual studio 2015\Projects\CareerGoals\CareerGoals\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\C2User\documents\visual studio 2015\Projects\CareerGoals\CareerGoals\bin\EntityFramework.xml
+C:\Users\C2User\documents\visual studio 2015\Projects\CareerGoals\CareerGoals\bin\EntityFramework.SqlServer.xml
+C:\Users\C2User\documents\visual studio 2015\Projects\CareerGoals\CareerGoals\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\C2User\documents\visual studio 2015\Projects\CareerGoals\CareerGoals\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\C2User\documents\visual studio 2015\Projects\CareerGoals\CareerGoals\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\C2User\documents\visual studio 2015\Projects\CareerGoals\CareerGoals\bin\System.Web.Providers.xml
+C:\Users\C2User\documents\visual studio 2015\Projects\CareerGoals\CareerGoals\bin\Microsoft.Owin.xml
+C:\Users\C2User\documents\visual studio 2015\Projects\CareerGoals\CareerGoals\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\C2User\documents\visual studio 2015\Projects\CareerGoals\CareerGoals\bin\Microsoft.Owin.Security.xml
+C:\Users\C2User\documents\visual studio 2015\Projects\CareerGoals\CareerGoals\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\C2User\documents\visual studio 2015\Projects\CareerGoals\CareerGoals\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\C2User\documents\visual studio 2015\Projects\CareerGoals\CareerGoals\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\C2User\documents\visual studio 2015\Projects\CareerGoals\CareerGoals\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\C2User\documents\visual studio 2015\Projects\CareerGoals\CareerGoals\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\C2User\documents\visual studio 2015\Projects\CareerGoals\CareerGoals\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\C2User\documents\visual studio 2015\Projects\CareerGoals\CareerGoals\obj\Release\CareerGoals.dll
+C:\Users\C2User\documents\visual studio 2015\Projects\CareerGoals\CareerGoals\obj\Release\CareerGoals.pdb
+C:\Users\C2User\documents\visual studio 2015\Projects\CareerGoals\CareerGoals\obj\Release\CareerGoals.csprojResolveAssemblyReference.cache
+C:\Users\C2DevGroupUser\Dropbox (C2 Dev Group)\Josh\Projects\CareerGoals\CareerGoals\bin\ApplicationInsights.config
+C:\Users\C2DevGroupUser\Dropbox (C2 Dev Group)\Josh\Projects\CareerGoals\CareerGoals\bin\roslyn\csc.exe
+C:\Users\C2DevGroupUser\Dropbox (C2 Dev Group)\Josh\Projects\CareerGoals\CareerGoals\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\C2DevGroupUser\Dropbox (C2 Dev Group)\Josh\Projects\CareerGoals\CareerGoals\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\C2DevGroupUser\Dropbox (C2 Dev Group)\Josh\Projects\CareerGoals\CareerGoals\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\C2DevGroupUser\Dropbox (C2 Dev Group)\Josh\Projects\CareerGoals\CareerGoals\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\C2DevGroupUser\Dropbox (C2 Dev Group)\Josh\Projects\CareerGoals\CareerGoals\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\C2DevGroupUser\Dropbox (C2 Dev Group)\Josh\Projects\CareerGoals\CareerGoals\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\C2DevGroupUser\Dropbox (C2 Dev Group)\Josh\Projects\CareerGoals\CareerGoals\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\C2DevGroupUser\Dropbox (C2 Dev Group)\Josh\Projects\CareerGoals\CareerGoals\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\C2DevGroupUser\Dropbox (C2 Dev Group)\Josh\Projects\CareerGoals\CareerGoals\bin\roslyn\vbc.exe
+C:\Users\C2DevGroupUser\Dropbox (C2 Dev Group)\Josh\Projects\CareerGoals\CareerGoals\bin\roslyn\VBCSCompiler.exe
+C:\Users\C2DevGroupUser\Dropbox (C2 Dev Group)\Josh\Projects\CareerGoals\CareerGoals\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\C2DevGroupUser\Dropbox (C2 Dev Group)\Josh\Projects\CareerGoals\CareerGoals\bin\CareerGoals.dll.config
+C:\Users\C2DevGroupUser\Dropbox (C2 Dev Group)\Josh\Projects\CareerGoals\CareerGoals\bin\CareerGoals.dll
+C:\Users\C2DevGroupUser\Dropbox (C2 Dev Group)\Josh\Projects\CareerGoals\CareerGoals\bin\CareerGoals.pdb
+C:\Users\C2DevGroupUser\Dropbox (C2 Dev Group)\Josh\Projects\CareerGoals\CareerGoals\bin\Antlr3.Runtime.dll
+C:\Users\C2DevGroupUser\Dropbox (C2 Dev Group)\Josh\Projects\CareerGoals\CareerGoals\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\C2DevGroupUser\Dropbox (C2 Dev Group)\Josh\Projects\CareerGoals\CareerGoals\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\C2DevGroupUser\Dropbox (C2 Dev Group)\Josh\Projects\CareerGoals\CareerGoals\bin\EntityFramework.dll
+C:\Users\C2DevGroupUser\Dropbox (C2 Dev Group)\Josh\Projects\CareerGoals\CareerGoals\bin\EntityFramework.SqlServer.dll
+C:\Users\C2DevGroupUser\Dropbox (C2 Dev Group)\Josh\Projects\CareerGoals\CareerGoals\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\C2DevGroupUser\Dropbox (C2 Dev Group)\Josh\Projects\CareerGoals\CareerGoals\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\C2DevGroupUser\Dropbox (C2 Dev Group)\Josh\Projects\CareerGoals\CareerGoals\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\C2DevGroupUser\Dropbox (C2 Dev Group)\Josh\Projects\CareerGoals\CareerGoals\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\C2DevGroupUser\Dropbox (C2 Dev Group)\Josh\Projects\CareerGoals\CareerGoals\bin\Microsoft.AI.Web.dll
+C:\Users\C2DevGroupUser\Dropbox (C2 Dev Group)\Josh\Projects\CareerGoals\CareerGoals\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\C2DevGroupUser\Dropbox (C2 Dev Group)\Josh\Projects\CareerGoals\CareerGoals\bin\Microsoft.ApplicationInsights.dll
+C:\Users\C2DevGroupUser\Dropbox (C2 Dev Group)\Josh\Projects\CareerGoals\CareerGoals\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\C2DevGroupUser\Dropbox (C2 Dev Group)\Josh\Projects\CareerGoals\CareerGoals\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\C2DevGroupUser\Dropbox (C2 Dev Group)\Josh\Projects\CareerGoals\CareerGoals\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\C2DevGroupUser\Dropbox (C2 Dev Group)\Josh\Projects\CareerGoals\CareerGoals\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\C2DevGroupUser\Dropbox (C2 Dev Group)\Josh\Projects\CareerGoals\CareerGoals\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\C2DevGroupUser\Dropbox (C2 Dev Group)\Josh\Projects\CareerGoals\CareerGoals\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\C2DevGroupUser\Dropbox (C2 Dev Group)\Josh\Projects\CareerGoals\CareerGoals\bin\Microsoft.Owin.dll
+C:\Users\C2DevGroupUser\Dropbox (C2 Dev Group)\Josh\Projects\CareerGoals\CareerGoals\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\C2DevGroupUser\Dropbox (C2 Dev Group)\Josh\Projects\CareerGoals\CareerGoals\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\C2DevGroupUser\Dropbox (C2 Dev Group)\Josh\Projects\CareerGoals\CareerGoals\bin\Microsoft.Owin.Security.dll
+C:\Users\C2DevGroupUser\Dropbox (C2 Dev Group)\Josh\Projects\CareerGoals\CareerGoals\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\C2DevGroupUser\Dropbox (C2 Dev Group)\Josh\Projects\CareerGoals\CareerGoals\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\C2DevGroupUser\Dropbox (C2 Dev Group)\Josh\Projects\CareerGoals\CareerGoals\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\C2DevGroupUser\Dropbox (C2 Dev Group)\Josh\Projects\CareerGoals\CareerGoals\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\C2DevGroupUser\Dropbox (C2 Dev Group)\Josh\Projects\CareerGoals\CareerGoals\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\C2DevGroupUser\Dropbox (C2 Dev Group)\Josh\Projects\CareerGoals\CareerGoals\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\C2DevGroupUser\Dropbox (C2 Dev Group)\Josh\Projects\CareerGoals\CareerGoals\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\C2DevGroupUser\Dropbox (C2 Dev Group)\Josh\Projects\CareerGoals\CareerGoals\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\C2DevGroupUser\Dropbox (C2 Dev Group)\Josh\Projects\CareerGoals\CareerGoals\bin\Newtonsoft.Json.dll
+C:\Users\C2DevGroupUser\Dropbox (C2 Dev Group)\Josh\Projects\CareerGoals\CareerGoals\bin\Owin.dll
+C:\Users\C2DevGroupUser\Dropbox (C2 Dev Group)\Josh\Projects\CareerGoals\CareerGoals\bin\System.Web.Optimization.dll
+C:\Users\C2DevGroupUser\Dropbox (C2 Dev Group)\Josh\Projects\CareerGoals\CareerGoals\bin\System.Web.Providers.dll
+C:\Users\C2DevGroupUser\Dropbox (C2 Dev Group)\Josh\Projects\CareerGoals\CareerGoals\bin\WebGrease.dll
+C:\Users\C2DevGroupUser\Dropbox (C2 Dev Group)\Josh\Projects\CareerGoals\CareerGoals\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\C2DevGroupUser\Dropbox (C2 Dev Group)\Josh\Projects\CareerGoals\CareerGoals\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\C2DevGroupUser\Dropbox (C2 Dev Group)\Josh\Projects\CareerGoals\CareerGoals\bin\Microsoft.AI.Web.xml
+C:\Users\C2DevGroupUser\Dropbox (C2 Dev Group)\Josh\Projects\CareerGoals\CareerGoals\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\C2DevGroupUser\Dropbox (C2 Dev Group)\Josh\Projects\CareerGoals\CareerGoals\bin\Microsoft.ApplicationInsights.xml
+C:\Users\C2DevGroupUser\Dropbox (C2 Dev Group)\Josh\Projects\CareerGoals\CareerGoals\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\C2DevGroupUser\Dropbox (C2 Dev Group)\Josh\Projects\CareerGoals\CareerGoals\bin\System.Web.Optimization.xml
+C:\Users\C2DevGroupUser\Dropbox (C2 Dev Group)\Josh\Projects\CareerGoals\CareerGoals\bin\Antlr3.Runtime.pdb
+C:\Users\C2DevGroupUser\Dropbox (C2 Dev Group)\Josh\Projects\CareerGoals\CareerGoals\bin\Newtonsoft.Json.xml
+C:\Users\C2DevGroupUser\Dropbox (C2 Dev Group)\Josh\Projects\CareerGoals\CareerGoals\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\C2DevGroupUser\Dropbox (C2 Dev Group)\Josh\Projects\CareerGoals\CareerGoals\bin\EntityFramework.xml
+C:\Users\C2DevGroupUser\Dropbox (C2 Dev Group)\Josh\Projects\CareerGoals\CareerGoals\bin\EntityFramework.SqlServer.xml
+C:\Users\C2DevGroupUser\Dropbox (C2 Dev Group)\Josh\Projects\CareerGoals\CareerGoals\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\C2DevGroupUser\Dropbox (C2 Dev Group)\Josh\Projects\CareerGoals\CareerGoals\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\C2DevGroupUser\Dropbox (C2 Dev Group)\Josh\Projects\CareerGoals\CareerGoals\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\C2DevGroupUser\Dropbox (C2 Dev Group)\Josh\Projects\CareerGoals\CareerGoals\bin\System.Web.Providers.xml
+C:\Users\C2DevGroupUser\Dropbox (C2 Dev Group)\Josh\Projects\CareerGoals\CareerGoals\bin\Microsoft.Owin.xml
+C:\Users\C2DevGroupUser\Dropbox (C2 Dev Group)\Josh\Projects\CareerGoals\CareerGoals\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\C2DevGroupUser\Dropbox (C2 Dev Group)\Josh\Projects\CareerGoals\CareerGoals\bin\Microsoft.Owin.Security.xml
+C:\Users\C2DevGroupUser\Dropbox (C2 Dev Group)\Josh\Projects\CareerGoals\CareerGoals\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\C2DevGroupUser\Dropbox (C2 Dev Group)\Josh\Projects\CareerGoals\CareerGoals\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\C2DevGroupUser\Dropbox (C2 Dev Group)\Josh\Projects\CareerGoals\CareerGoals\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\C2DevGroupUser\Dropbox (C2 Dev Group)\Josh\Projects\CareerGoals\CareerGoals\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\C2DevGroupUser\Dropbox (C2 Dev Group)\Josh\Projects\CareerGoals\CareerGoals\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\C2DevGroupUser\Dropbox (C2 Dev Group)\Josh\Projects\CareerGoals\CareerGoals\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\C2DevGroupUser\Dropbox (C2 Dev Group)\Josh\Projects\CareerGoals\CareerGoals\obj\Release\CareerGoals.csprojResolveAssemblyReference.cache
+C:\Users\C2DevGroupUser\Dropbox (C2 Dev Group)\Josh\Projects\CareerGoals\CareerGoals\obj\Release\CareerGoals.dll
+C:\Users\C2DevGroupUser\Dropbox (C2 Dev Group)\Josh\Projects\CareerGoals\CareerGoals\obj\Release\CareerGoals.pdb
+C:\Users\C2DevGroupUser\Documents\Visual Studio 2015\Projects\CareerGoals\CareerGoals\bin\ApplicationInsights.config
+C:\Users\C2DevGroupUser\Documents\Visual Studio 2015\Projects\CareerGoals\CareerGoals\bin\roslyn\csc.exe
+C:\Users\C2DevGroupUser\Documents\Visual Studio 2015\Projects\CareerGoals\CareerGoals\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\C2DevGroupUser\Documents\Visual Studio 2015\Projects\CareerGoals\CareerGoals\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\C2DevGroupUser\Documents\Visual Studio 2015\Projects\CareerGoals\CareerGoals\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\C2DevGroupUser\Documents\Visual Studio 2015\Projects\CareerGoals\CareerGoals\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\C2DevGroupUser\Documents\Visual Studio 2015\Projects\CareerGoals\CareerGoals\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\C2DevGroupUser\Documents\Visual Studio 2015\Projects\CareerGoals\CareerGoals\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\C2DevGroupUser\Documents\Visual Studio 2015\Projects\CareerGoals\CareerGoals\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\C2DevGroupUser\Documents\Visual Studio 2015\Projects\CareerGoals\CareerGoals\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\C2DevGroupUser\Documents\Visual Studio 2015\Projects\CareerGoals\CareerGoals\bin\roslyn\vbc.exe
+C:\Users\C2DevGroupUser\Documents\Visual Studio 2015\Projects\CareerGoals\CareerGoals\bin\roslyn\VBCSCompiler.exe
+C:\Users\C2DevGroupUser\Documents\Visual Studio 2015\Projects\CareerGoals\CareerGoals\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\C2DevGroupUser\Documents\Visual Studio 2015\Projects\CareerGoals\CareerGoals\bin\CareerGoals.dll.config
+C:\Users\C2DevGroupUser\Documents\Visual Studio 2015\Projects\CareerGoals\CareerGoals\bin\CareerGoals.dll
+C:\Users\C2DevGroupUser\Documents\Visual Studio 2015\Projects\CareerGoals\CareerGoals\bin\CareerGoals.pdb
+C:\Users\C2DevGroupUser\Documents\Visual Studio 2015\Projects\CareerGoals\CareerGoals\bin\Antlr3.Runtime.dll
+C:\Users\C2DevGroupUser\Documents\Visual Studio 2015\Projects\CareerGoals\CareerGoals\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\C2DevGroupUser\Documents\Visual Studio 2015\Projects\CareerGoals\CareerGoals\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\C2DevGroupUser\Documents\Visual Studio 2015\Projects\CareerGoals\CareerGoals\bin\EntityFramework.dll
+C:\Users\C2DevGroupUser\Documents\Visual Studio 2015\Projects\CareerGoals\CareerGoals\bin\EntityFramework.SqlServer.dll
+C:\Users\C2DevGroupUser\Documents\Visual Studio 2015\Projects\CareerGoals\CareerGoals\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\C2DevGroupUser\Documents\Visual Studio 2015\Projects\CareerGoals\CareerGoals\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\C2DevGroupUser\Documents\Visual Studio 2015\Projects\CareerGoals\CareerGoals\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\C2DevGroupUser\Documents\Visual Studio 2015\Projects\CareerGoals\CareerGoals\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\C2DevGroupUser\Documents\Visual Studio 2015\Projects\CareerGoals\CareerGoals\bin\Microsoft.AI.Web.dll
+C:\Users\C2DevGroupUser\Documents\Visual Studio 2015\Projects\CareerGoals\CareerGoals\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\C2DevGroupUser\Documents\Visual Studio 2015\Projects\CareerGoals\CareerGoals\bin\Microsoft.ApplicationInsights.dll
+C:\Users\C2DevGroupUser\Documents\Visual Studio 2015\Projects\CareerGoals\CareerGoals\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\C2DevGroupUser\Documents\Visual Studio 2015\Projects\CareerGoals\CareerGoals\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\C2DevGroupUser\Documents\Visual Studio 2015\Projects\CareerGoals\CareerGoals\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\C2DevGroupUser\Documents\Visual Studio 2015\Projects\CareerGoals\CareerGoals\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\C2DevGroupUser\Documents\Visual Studio 2015\Projects\CareerGoals\CareerGoals\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\C2DevGroupUser\Documents\Visual Studio 2015\Projects\CareerGoals\CareerGoals\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\C2DevGroupUser\Documents\Visual Studio 2015\Projects\CareerGoals\CareerGoals\bin\Microsoft.Owin.dll
+C:\Users\C2DevGroupUser\Documents\Visual Studio 2015\Projects\CareerGoals\CareerGoals\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\C2DevGroupUser\Documents\Visual Studio 2015\Projects\CareerGoals\CareerGoals\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\C2DevGroupUser\Documents\Visual Studio 2015\Projects\CareerGoals\CareerGoals\bin\Microsoft.Owin.Security.dll
+C:\Users\C2DevGroupUser\Documents\Visual Studio 2015\Projects\CareerGoals\CareerGoals\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\C2DevGroupUser\Documents\Visual Studio 2015\Projects\CareerGoals\CareerGoals\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\C2DevGroupUser\Documents\Visual Studio 2015\Projects\CareerGoals\CareerGoals\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\C2DevGroupUser\Documents\Visual Studio 2015\Projects\CareerGoals\CareerGoals\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\C2DevGroupUser\Documents\Visual Studio 2015\Projects\CareerGoals\CareerGoals\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\C2DevGroupUser\Documents\Visual Studio 2015\Projects\CareerGoals\CareerGoals\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\C2DevGroupUser\Documents\Visual Studio 2015\Projects\CareerGoals\CareerGoals\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\C2DevGroupUser\Documents\Visual Studio 2015\Projects\CareerGoals\CareerGoals\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\C2DevGroupUser\Documents\Visual Studio 2015\Projects\CareerGoals\CareerGoals\bin\Newtonsoft.Json.dll
+C:\Users\C2DevGroupUser\Documents\Visual Studio 2015\Projects\CareerGoals\CareerGoals\bin\Owin.dll
+C:\Users\C2DevGroupUser\Documents\Visual Studio 2015\Projects\CareerGoals\CareerGoals\bin\System.Web.Optimization.dll
+C:\Users\C2DevGroupUser\Documents\Visual Studio 2015\Projects\CareerGoals\CareerGoals\bin\System.Web.Providers.dll
+C:\Users\C2DevGroupUser\Documents\Visual Studio 2015\Projects\CareerGoals\CareerGoals\bin\WebGrease.dll
+C:\Users\C2DevGroupUser\Documents\Visual Studio 2015\Projects\CareerGoals\CareerGoals\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\C2DevGroupUser\Documents\Visual Studio 2015\Projects\CareerGoals\CareerGoals\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\C2DevGroupUser\Documents\Visual Studio 2015\Projects\CareerGoals\CareerGoals\bin\Microsoft.AI.Web.xml
+C:\Users\C2DevGroupUser\Documents\Visual Studio 2015\Projects\CareerGoals\CareerGoals\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\C2DevGroupUser\Documents\Visual Studio 2015\Projects\CareerGoals\CareerGoals\bin\Microsoft.ApplicationInsights.xml
+C:\Users\C2DevGroupUser\Documents\Visual Studio 2015\Projects\CareerGoals\CareerGoals\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\C2DevGroupUser\Documents\Visual Studio 2015\Projects\CareerGoals\CareerGoals\bin\System.Web.Optimization.xml
+C:\Users\C2DevGroupUser\Documents\Visual Studio 2015\Projects\CareerGoals\CareerGoals\bin\Antlr3.Runtime.pdb
+C:\Users\C2DevGroupUser\Documents\Visual Studio 2015\Projects\CareerGoals\CareerGoals\bin\Newtonsoft.Json.xml
+C:\Users\C2DevGroupUser\Documents\Visual Studio 2015\Projects\CareerGoals\CareerGoals\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\C2DevGroupUser\Documents\Visual Studio 2015\Projects\CareerGoals\CareerGoals\bin\EntityFramework.xml
+C:\Users\C2DevGroupUser\Documents\Visual Studio 2015\Projects\CareerGoals\CareerGoals\bin\EntityFramework.SqlServer.xml
+C:\Users\C2DevGroupUser\Documents\Visual Studio 2015\Projects\CareerGoals\CareerGoals\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\C2DevGroupUser\Documents\Visual Studio 2015\Projects\CareerGoals\CareerGoals\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\C2DevGroupUser\Documents\Visual Studio 2015\Projects\CareerGoals\CareerGoals\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\C2DevGroupUser\Documents\Visual Studio 2015\Projects\CareerGoals\CareerGoals\bin\System.Web.Providers.xml
+C:\Users\C2DevGroupUser\Documents\Visual Studio 2015\Projects\CareerGoals\CareerGoals\bin\Microsoft.Owin.xml
+C:\Users\C2DevGroupUser\Documents\Visual Studio 2015\Projects\CareerGoals\CareerGoals\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\C2DevGroupUser\Documents\Visual Studio 2015\Projects\CareerGoals\CareerGoals\bin\Microsoft.Owin.Security.xml
+C:\Users\C2DevGroupUser\Documents\Visual Studio 2015\Projects\CareerGoals\CareerGoals\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\C2DevGroupUser\Documents\Visual Studio 2015\Projects\CareerGoals\CareerGoals\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\C2DevGroupUser\Documents\Visual Studio 2015\Projects\CareerGoals\CareerGoals\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\C2DevGroupUser\Documents\Visual Studio 2015\Projects\CareerGoals\CareerGoals\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\C2DevGroupUser\Documents\Visual Studio 2015\Projects\CareerGoals\CareerGoals\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\C2DevGroupUser\Documents\Visual Studio 2015\Projects\CareerGoals\CareerGoals\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\C2DevGroupUser\Documents\Visual Studio 2015\Projects\CareerGoals\CareerGoals\obj\Release\CareerGoals.csprojResolveAssemblyReference.cache
+C:\Users\C2DevGroupUser\Documents\Visual Studio 2015\Projects\CareerGoals\CareerGoals\obj\Release\CareerGoals.dll
+C:\Users\C2DevGroupUser\Documents\Visual Studio 2015\Projects\CareerGoals\CareerGoals\obj\Release\CareerGoals.pdb
+C:\Users\C2DevGroupUser\Documents\Visual Studio 2015\Projects\NicCo\CareerGoals\bin\ApplicationInsights.config
+C:\Users\C2DevGroupUser\Documents\Visual Studio 2015\Projects\NicCo\CareerGoals\bin\roslyn\csc.exe
+C:\Users\C2DevGroupUser\Documents\Visual Studio 2015\Projects\NicCo\CareerGoals\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\C2DevGroupUser\Documents\Visual Studio 2015\Projects\NicCo\CareerGoals\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\C2DevGroupUser\Documents\Visual Studio 2015\Projects\NicCo\CareerGoals\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\C2DevGroupUser\Documents\Visual Studio 2015\Projects\NicCo\CareerGoals\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\C2DevGroupUser\Documents\Visual Studio 2015\Projects\NicCo\CareerGoals\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\C2DevGroupUser\Documents\Visual Studio 2015\Projects\NicCo\CareerGoals\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\C2DevGroupUser\Documents\Visual Studio 2015\Projects\NicCo\CareerGoals\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\C2DevGroupUser\Documents\Visual Studio 2015\Projects\NicCo\CareerGoals\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\C2DevGroupUser\Documents\Visual Studio 2015\Projects\NicCo\CareerGoals\bin\roslyn\vbc.exe
+C:\Users\C2DevGroupUser\Documents\Visual Studio 2015\Projects\NicCo\CareerGoals\bin\roslyn\VBCSCompiler.exe
+C:\Users\C2DevGroupUser\Documents\Visual Studio 2015\Projects\NicCo\CareerGoals\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\C2DevGroupUser\Documents\Visual Studio 2015\Projects\NicCo\CareerGoals\bin\CareerGoals.dll.config
+C:\Users\C2DevGroupUser\Documents\Visual Studio 2015\Projects\NicCo\CareerGoals\bin\CareerGoals.dll
+C:\Users\C2DevGroupUser\Documents\Visual Studio 2015\Projects\NicCo\CareerGoals\bin\CareerGoals.pdb
+C:\Users\C2DevGroupUser\Documents\Visual Studio 2015\Projects\NicCo\CareerGoals\bin\Antlr3.Runtime.dll
+C:\Users\C2DevGroupUser\Documents\Visual Studio 2015\Projects\NicCo\CareerGoals\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\C2DevGroupUser\Documents\Visual Studio 2015\Projects\NicCo\CareerGoals\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\C2DevGroupUser\Documents\Visual Studio 2015\Projects\NicCo\CareerGoals\bin\EntityFramework.dll
+C:\Users\C2DevGroupUser\Documents\Visual Studio 2015\Projects\NicCo\CareerGoals\bin\EntityFramework.SqlServer.dll
+C:\Users\C2DevGroupUser\Documents\Visual Studio 2015\Projects\NicCo\CareerGoals\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\C2DevGroupUser\Documents\Visual Studio 2015\Projects\NicCo\CareerGoals\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\C2DevGroupUser\Documents\Visual Studio 2015\Projects\NicCo\CareerGoals\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\C2DevGroupUser\Documents\Visual Studio 2015\Projects\NicCo\CareerGoals\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\C2DevGroupUser\Documents\Visual Studio 2015\Projects\NicCo\CareerGoals\bin\Microsoft.AI.Web.dll
+C:\Users\C2DevGroupUser\Documents\Visual Studio 2015\Projects\NicCo\CareerGoals\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\C2DevGroupUser\Documents\Visual Studio 2015\Projects\NicCo\CareerGoals\bin\Microsoft.ApplicationInsights.dll
+C:\Users\C2DevGroupUser\Documents\Visual Studio 2015\Projects\NicCo\CareerGoals\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\C2DevGroupUser\Documents\Visual Studio 2015\Projects\NicCo\CareerGoals\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\C2DevGroupUser\Documents\Visual Studio 2015\Projects\NicCo\CareerGoals\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\C2DevGroupUser\Documents\Visual Studio 2015\Projects\NicCo\CareerGoals\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\C2DevGroupUser\Documents\Visual Studio 2015\Projects\NicCo\CareerGoals\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\C2DevGroupUser\Documents\Visual Studio 2015\Projects\NicCo\CareerGoals\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\C2DevGroupUser\Documents\Visual Studio 2015\Projects\NicCo\CareerGoals\bin\Microsoft.Owin.dll
+C:\Users\C2DevGroupUser\Documents\Visual Studio 2015\Projects\NicCo\CareerGoals\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\C2DevGroupUser\Documents\Visual Studio 2015\Projects\NicCo\CareerGoals\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\C2DevGroupUser\Documents\Visual Studio 2015\Projects\NicCo\CareerGoals\bin\Microsoft.Owin.Security.dll
+C:\Users\C2DevGroupUser\Documents\Visual Studio 2015\Projects\NicCo\CareerGoals\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\C2DevGroupUser\Documents\Visual Studio 2015\Projects\NicCo\CareerGoals\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\C2DevGroupUser\Documents\Visual Studio 2015\Projects\NicCo\CareerGoals\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\C2DevGroupUser\Documents\Visual Studio 2015\Projects\NicCo\CareerGoals\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\C2DevGroupUser\Documents\Visual Studio 2015\Projects\NicCo\CareerGoals\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\C2DevGroupUser\Documents\Visual Studio 2015\Projects\NicCo\CareerGoals\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\C2DevGroupUser\Documents\Visual Studio 2015\Projects\NicCo\CareerGoals\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\C2DevGroupUser\Documents\Visual Studio 2015\Projects\NicCo\CareerGoals\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\C2DevGroupUser\Documents\Visual Studio 2015\Projects\NicCo\CareerGoals\bin\Newtonsoft.Json.dll
+C:\Users\C2DevGroupUser\Documents\Visual Studio 2015\Projects\NicCo\CareerGoals\bin\Owin.dll
+C:\Users\C2DevGroupUser\Documents\Visual Studio 2015\Projects\NicCo\CareerGoals\bin\System.Web.Optimization.dll
+C:\Users\C2DevGroupUser\Documents\Visual Studio 2015\Projects\NicCo\CareerGoals\bin\WebGrease.dll
+C:\Users\C2DevGroupUser\Documents\Visual Studio 2015\Projects\NicCo\CareerGoals\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\C2DevGroupUser\Documents\Visual Studio 2015\Projects\NicCo\CareerGoals\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\C2DevGroupUser\Documents\Visual Studio 2015\Projects\NicCo\CareerGoals\bin\Microsoft.AI.Web.xml
+C:\Users\C2DevGroupUser\Documents\Visual Studio 2015\Projects\NicCo\CareerGoals\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\C2DevGroupUser\Documents\Visual Studio 2015\Projects\NicCo\CareerGoals\bin\Microsoft.ApplicationInsights.xml
+C:\Users\C2DevGroupUser\Documents\Visual Studio 2015\Projects\NicCo\CareerGoals\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\C2DevGroupUser\Documents\Visual Studio 2015\Projects\NicCo\CareerGoals\bin\System.Web.Optimization.xml
+C:\Users\C2DevGroupUser\Documents\Visual Studio 2015\Projects\NicCo\CareerGoals\bin\Antlr3.Runtime.pdb
+C:\Users\C2DevGroupUser\Documents\Visual Studio 2015\Projects\NicCo\CareerGoals\bin\Newtonsoft.Json.xml
+C:\Users\C2DevGroupUser\Documents\Visual Studio 2015\Projects\NicCo\CareerGoals\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\C2DevGroupUser\Documents\Visual Studio 2015\Projects\NicCo\CareerGoals\bin\EntityFramework.xml
+C:\Users\C2DevGroupUser\Documents\Visual Studio 2015\Projects\NicCo\CareerGoals\bin\EntityFramework.SqlServer.xml
+C:\Users\C2DevGroupUser\Documents\Visual Studio 2015\Projects\NicCo\CareerGoals\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\C2DevGroupUser\Documents\Visual Studio 2015\Projects\NicCo\CareerGoals\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\C2DevGroupUser\Documents\Visual Studio 2015\Projects\NicCo\CareerGoals\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\C2DevGroupUser\Documents\Visual Studio 2015\Projects\NicCo\CareerGoals\bin\System.Web.Providers.xml
+C:\Users\C2DevGroupUser\Documents\Visual Studio 2015\Projects\NicCo\CareerGoals\bin\Microsoft.Owin.xml
+C:\Users\C2DevGroupUser\Documents\Visual Studio 2015\Projects\NicCo\CareerGoals\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\C2DevGroupUser\Documents\Visual Studio 2015\Projects\NicCo\CareerGoals\bin\Microsoft.Owin.Security.xml
+C:\Users\C2DevGroupUser\Documents\Visual Studio 2015\Projects\NicCo\CareerGoals\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\C2DevGroupUser\Documents\Visual Studio 2015\Projects\NicCo\CareerGoals\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\C2DevGroupUser\Documents\Visual Studio 2015\Projects\NicCo\CareerGoals\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\C2DevGroupUser\Documents\Visual Studio 2015\Projects\NicCo\CareerGoals\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\C2DevGroupUser\Documents\Visual Studio 2015\Projects\NicCo\CareerGoals\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\C2DevGroupUser\Documents\Visual Studio 2015\Projects\NicCo\CareerGoals\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\C2DevGroupUser\Documents\Visual Studio 2015\Projects\NicCo\CareerGoals\obj\Release\CareerGoals.csprojResolveAssemblyReference.cache
+C:\Users\C2DevGroupUser\Documents\Visual Studio 2015\Projects\NicCo\CareerGoals\obj\Release\CareerGoals.dll
+C:\Users\C2DevGroupUser\Documents\Visual Studio 2015\Projects\NicCo\CareerGoals\obj\Release\CareerGoals.pdb
