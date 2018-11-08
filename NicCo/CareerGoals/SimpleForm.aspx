@@ -27,7 +27,7 @@
 .grid-container {
             display: grid;
             grid-template-areas: 'logo fdaRegistered fdaRegistered fdaRegistered fdaRegistered fdaRegistered'
-                                 '. . . . . .' 
+                                 
                                  'banner banner banner banner banner banner' 
                                  
                                  'main1 main1 main1 main2 main2 main2'
@@ -70,7 +70,7 @@ ul, li {
        <div class="item1a"><img src="images/Asset%201@2x.png" alt="The Nicotine Company" /></div>
        <div class="item1b">
         <div style ="display:inline-block;">
-            <p style="font-family:'DIN Next LT Pro'; font-size:45px;">FDA registered facility that includes tobacco products <strong><i>(Nicotine)</i></strong></p>
+            <p style="font-family:'DIN Next LT Pro'; font-size:45px;margin-top:20px;">FDA registered facility that includes tobacco products <strong><i>(Nicotine)</i></strong></p>
         </div>
         </div>
        
@@ -128,13 +128,14 @@ allows you to rest easy knowing compliance is covered.</p>
         </div>
  
        <div class="item8a">
-           <p style="color:#67b44f;">PHARMACEUTICAL GRADE</p>
+           <p style="color:#67b44f; font-size:25px; font-weight:600;">PHARMACEUTICAL GRADE</p>
        </div> 
+      <div><p style="font-size:20px;">.</p></div>
       <div class="item8b">
-          <p style="color:#67b44f;">FDA COMPLIANT FACILITY</p>
+          <p style="color:#67b44f; font-size:25px; font-weight:600;">FDA COMPLIANT FACILITY</p>
       </div>
       <div class="item8c">
-          <p style="color:#67b44f;">GLOBALLY SOURCED - AMERICAN MADE*</p>
+          <p style="color:#67b44f; font-size:25px; font-weight:600;">GLOBALLY SOURCED - AMERICAN MADE*</p>
       </div>
   <div class="item9" style="background-color:#67b44f;">
       <ul>
