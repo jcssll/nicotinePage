@@ -30,7 +30,7 @@
             grid-template-areas: 'logo fdaRegistered fdaRegistered fdaRegistered fdaRegistered fdaRegistered'
                                  '. . . . . .' 
                                  'banner banner banner banner banner banner' 
-                                 '. . . . . .' 
+                                 
                                  'main1 main1 main1 main2 main2 main2'
                                  'weUnderstand weUnderstand weUnderstand weUnderstand weUnderstand weUnderstand' 
                                  'nicotineSalts nicotineSalts pureNicotine pureNicotine nicotineBlends nicotineBlends' 
@@ -39,8 +39,9 @@
                                  'footer footer footer footer footer footer';
             grid-gap: 0px;
             background-color: #ffffff;
-            background-image: url(https://cdn.shopify.com/s/files/1/2419/8775/files/Asset_3.png?11134335611343581013);
-            background-repeat:cover;
+            background-image: url(https://cdn.shopify.com/s/files/1/0080/0050/3926/files/Asset_3_2x_3e084a04-ec8a-4f1d-b70d-870ff6ec9bbc.png?7710023102288558886);
+            background-repeat:no-repeat;    
+            background-size:cover;
             padding: 10px;
 
         }
@@ -54,6 +55,15 @@
 ul, li {
   list-style: none;
   display: inline;
+}
+/*.submit{
+    color:white;  
+}*/
+.button {
+    background-color:#b67229;
+    border:solid;
+    border-color:#ca9e2c;
+    color:#ffffff;
 }
 </style>
 </head>
@@ -95,7 +105,7 @@ ul, li {
             <asp:TextBox ID="textbox_form_phone" type="tel" cssclass="form-control" placeholder="Enter Phone Number" name="phone" runat="server"/>
         </div>
         <div class="submit">
-            <asp:button type="submit" OnClick="button_submit_click" text="SUBMIT" runat="server"/>
+            <asp:button type="submit" OnClick="button_submit_click" text="SUBMIT" cssclass="button" runat="server"/>
         </div>
         </div>
     </form>
@@ -131,15 +141,15 @@ allows you to rest easy knowing compliance is covered.</p>
   <div class="item9" style="background-color:#67b44f;">
       <ul>
   <li class="item9a"><img src="images/Untitled-2.png" /></li>
-  <li class="item9b"><img src="images/Asset%2015.png" /></li>
-  <li class="item9c"><img src="images/Asset%2014.png" /></li>
-  <li class="item9d"><img src="images/Asset%2013.png" /></li>
-  <li class="item9e"><img src="images/Asset%2012.png" /></li>
-  <li class="item9f"><img src="images/Asset%2011.png" /></li>
-  <li class="item9g"><img src="images/Asset%2010.png" /></li>
-  <li class="item9h"><img src="images/Asset%209.png" /></li>
-  <li class="item9i"><img src="images/Asset%208.png"/></li>
-  <li class="item9j"><img src="images/Asset%207.png"/></li>
+  <li class="item9b"><img src="https://cdn.shopify.com/s/files/1/0080/0050/3926/files/Asset_15_2x_f35b1975-baa6-4907-a5ed-d4e3c64ba54e.png?7323164918106087022" /></li>
+  <li class="item9c"><img src="https://cdn.shopify.com/s/files/1/0080/0050/3926/files/Asset_14_2x_e7308ef5-6941-4ad4-a152-df70141659bd.png?4781850077234004241" /></li>
+  <li class="item9d"><img src="https://cdn.shopify.com/s/files/1/0080/0050/3926/files/Asset_13_2x_a70c4625-5bd0-40b5-8e44-9381bd154c9b.png?2455864918498422866" /></li>
+  <li class="item9e"><img src="https://cdn.shopify.com/s/files/1/0080/0050/3926/files/Asset_12_2x_2f08e479-f3b3-42ad-a09c-5c844151f793.png?11704372471500332486" /></li>
+  <li class="item9f"><img src="https://cdn.shopify.com/s/files/1/0080/0050/3926/files/Asset_11_2x_c15bed2a-f2fd-45d8-8b4b-dbdb740e985a.png?14868554931614558183" /></li>
+  <li class="item9g"><img src="https://cdn.shopify.com/s/files/1/0080/0050/3926/files/Asset_10_2x_0df6261c-ed40-45c5-9fcf-316be8296900.png?17632896312586014740" /></li>
+  <li class="item9h"><img src="https://cdn.shopify.com/s/files/1/0080/0050/3926/files/Asset_9_2x_651278ed-5504-4632-b382-b1ba37ca04bb.png?7589988959007236881" /></li>
+  <li class="item9i"><img src="https://cdn.shopify.com/s/files/1/0080/0050/3926/files/Asset_8_2x_e4efe339-bb0c-446a-afd9-f84e98d25d1a.png?17799740818492754769"/></li>
+  <li class="item9j"><img src="https://cdn.shopify.com/s/files/1/0080/0050/3926/files/Asset_7_2x_103cb115-83ef-4a85-a6bd-636bda0cd691.png?12172702074311071240"/></li>
         </ul>
   </div>
 
