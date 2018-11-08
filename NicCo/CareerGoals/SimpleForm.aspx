@@ -9,7 +9,6 @@
     <link href="Content/MyStyles.css" rel="stylesheet" type="text/css" />
    
     <style>
-
 .item1a { background-color:#ffffff; grid-area:logo; }
 .item1b { background-color:#ffffff; grid-area:fdaRegistered; }
 .item2 { grid-area: banner; }
@@ -46,8 +45,6 @@
 
         }
 .grid-container > div {
-  /*background-color: rgba(255, 255, 255, 1.0);*/
-  /* Will make the back of every grid-container with a white background*/
   text-align: center;
   padding: 20px 0;
   font-size: 30px;
@@ -56,9 +53,6 @@ ul, li {
   list-style: none;
   display: inline;
 }
-/*.submit{
-    color:white;  
-}*/
 .button {
     background-color:#b67229;
     border:solid;
