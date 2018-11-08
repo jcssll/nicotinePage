@@ -25,14 +25,24 @@
 .item9  { grid-area: images; }
 .item10 { grid-area: footer; }
 
-        .grid-container {
+.grid-container {
             display: grid;
-            grid-template-areas: 'logo fdaRegistered fdaRegistered fdaRegistered fdaRegistered fdaRegistered' 'banner banner banner banner banner banner' 'main1 main1 main1 main2 main2 main2' 'weUnderstand weUnderstand weUnderstand weUnderstand weUnderstand weUnderstand' 'nicotineSalts nicotineSalts pureNicotine pureNicotine nicotineBlends nicotineBlends' 'texta texta textb textb textc textc' 'images images images images images images' 'footer footer footer footer footer footer';
+            grid-template-areas: 'logo fdaRegistered fdaRegistered fdaRegistered fdaRegistered fdaRegistered'
+                                 '. . . . . .' 
+                                 'banner banner banner banner banner banner' 
+                                 '. . . . . .' 
+                                 'main1 main1 main1 main2 main2 main2'
+                                 'weUnderstand weUnderstand weUnderstand weUnderstand weUnderstand weUnderstand' 
+                                 'nicotineSalts nicotineSalts pureNicotine pureNicotine nicotineBlends nicotineBlends' 
+                                 'texta texta textb textb textc textc'
+                                 'images images images images images images'
+                                 'footer footer footer footer footer footer';
             grid-gap: 0px;
             background-color: #ffffff;
             background-image: url(https://cdn.shopify.com/s/files/1/2419/8775/files/Asset_3.png?11134335611343581013);
             background-repeat:cover;
             padding: 10px;
+
         }
 .grid-container > div {
   /*background-color: rgba(255, 255, 255, 1.0);*/
@@ -92,7 +102,7 @@ ul, li {
   </div>
  
     <div class="item4" style="background-color:rgba(182,114,41, 0.75);">
-        <p style="color:white; font-size:19px; padding:20px 20px 20px 20px;">In the e-cigarette market, we understand that there are several supplier options
+        <p style="color:white; font-size:32px; padding:25px 25px 25px 25px; font-family:Gotham;">In the e-cigarette market, we understand that there are several supplier options
 available. However, not all suppliers are created equal. At NicCo, we put quality first
 and pride ourselves on delivering validated quality products. From sourcing the
 highest quality nicotine to using comprehensive testing to ensure purity, NicCo
