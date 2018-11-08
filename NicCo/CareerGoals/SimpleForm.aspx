@@ -9,9 +9,9 @@
     <link href="Content/MyStyles.css" rel="stylesheet" type="text/css" />
    
     <style>
-.item1 { grid-area: header; }
-.item1a { grid-area:logo; }
-.item1b { grid-area:fdaRegistered; }
+
+.item1a { background-color:#ffffff; grid-area:logo; }
+.item1b { background-color:#ffffff; grid-area:fdaRegistered; }
 .item2 { grid-area: banner; }
 .item3a { grid-area:main1; }
 .item3b { grid-area:main2; }
@@ -28,14 +28,15 @@
         .grid-container {
             display: grid;
             grid-template-areas: 'logo fdaRegistered fdaRegistered fdaRegistered fdaRegistered fdaRegistered' 'banner banner banner banner banner banner' 'main1 main1 main1 main2 main2 main2' 'weUnderstand weUnderstand weUnderstand weUnderstand weUnderstand weUnderstand' 'nicotineSalts nicotineSalts pureNicotine pureNicotine nicotineBlends nicotineBlends' 'texta texta textb textb textc textc' 'images images images images images images' 'footer footer footer footer footer footer';
-            grid-gap: 10px;
+            grid-gap: 0px;
             background-color: #ffffff;
             background-image: url(https://cdn.shopify.com/s/files/1/2419/8775/files/Asset_3.png?11134335611343581013);
             background-repeat:cover;
             padding: 10px;
         }
 .grid-container > div {
-  background-color: rgba(255, 255, 255, 1.0);
+  /*background-color: rgba(255, 255, 255, 1.0);*/
+  /* Will make the back of every grid-container with a white background*/
   text-align: center;
   padding: 20px 0;
   font-size: 30px;
