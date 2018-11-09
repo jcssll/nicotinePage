@@ -78,7 +78,7 @@ ul, li {
         <div><h2 style="text-align:center; color:white; font-size:55px; font-family:Gotham;">YOUR CHOICE FOR PREMIUM NICOTINE SOLUTIONS</h2></div>
    </div>
  
-  <div class="item3a" style="background-color:#ca9e2c; text-align:center; margin-left:50px; margin-top:20px;">
+  <div class="item3a" style="background-color:#ca9e2c; text-align:center; margin-left:126px; margin-top:30px;">
     <h2 style="color:white; font-size:38px; font-family:Gotham;">Contact us for a </h2> 
     <h2 style="color:white; font-size:38px; font-family:Gotham;">deluxe sample of our</h2>
     <h2 style="color:white; font-size:38px; font-family:Gotham;">Nicotine Salt Blend and </h2>
@@ -86,7 +86,7 @@ ul, li {
     <h2 style="color:white; font-size:38px; font-family:Gotham;">e-cigarette juice flavors.</h2>
    
   </div>
-  <div class="item3b" style="background-color:rgba(0,255,0,0.2); margin-right:50px; margin-top:20px;">
+  <div class="item3b" style="background-color:rgba(0,255,0,0.2); margin-right:126px; margin-top:30px;">
       
     <form id="form1" runat="server">
     <div class="container">
@@ -109,7 +109,7 @@ ul, li {
     </form>
   </div>
  
-    <div class="item4" style="background-color:rgba(182,114,41, 0.75); margin:25px 25px;">
+    <div class="item4" style="background-color:rgba(182,114,41, 0.75); margin:25px 25px; margin-right:126px; margin-left:126px;">
         <p style="color:white; font-size:32px; padding:25px 25px 25px 25px; font-family:Gotham;">In the e-cigarette market, we understand that there are several supplier options
 available. However, not all suppliers are created equal. At NicCo, we put quality first
 and pride ourselves on delivering validated quality products. From sourcing the
