@@ -152,7 +152,7 @@ allows you to rest easy knowing compliance is covered.</p>
         </ul>
   </div>
 
-    <footer class="item10" style="background-color:saddlebrown;">
+    <footer class="item10" style="background-color:saddlebrown; margin-bottom:-78px;">
         <div class="footerContents" style="background-color:#ffffff; text-align:center; height:55px; margin-top:20px; padding:5px 15px 15px 15px;">
             <img src="images/Asset%2016.png" />
             <img src="images/Asset%2018.png" />
