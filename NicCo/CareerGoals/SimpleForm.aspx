@@ -38,11 +38,12 @@
                                  'footer footer footer footer footer footer';
             grid-gap: 0px;
             background-color: #ffffff;
-            background-image: url(https://cdn.shopify.com/s/files/1/0080/0050/3926/files/Asset_3_2x_3e084a04-ec8a-4f1d-b70d-870ff6ec9bbc.png?7710023102288558886);
-            background-repeat:no-repeat;    
-            background-size:cover;
-            padding: 10px;
-
+            background-image: url(https://cdn.shopify.com/s/files/1/0080/0050/3926/files/Asset_3_2x_3b487e9b-e7de-4803-92b4-fe2babcd792d.png?16024007194517546643);
+            background-repeat:no-repeat; 
+            background-size:cover;    
+            height:100%;
+            width:100%;
+            overflow:hidden; 
         }
 .grid-container > div {
   text-align: center;
@@ -60,8 +61,7 @@ ul, li {
     border-width:5px;
     color:#ffffff;
     padding:10px;
-    width:220px;
-    
+    width:220px;   
 }
 </style>
 </head>
